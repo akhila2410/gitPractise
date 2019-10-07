@@ -7,3 +7,6 @@ my first addition
 
 for creating  abranch..
 witha  new patch
+
+
+using this to merge both the master branch and new patch
